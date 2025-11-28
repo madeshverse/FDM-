@@ -74,10 +74,18 @@ end
 ```
 
 ### GRAPH:
+<img width="761" height="714" alt="image" src="https://github.com/user-attachments/assets/e6963b3d-495b-48e0-b0a5-4a5baf55f54d" />
+
+<img width="758" height="719" alt="image" src="https://github.com/user-attachments/assets/c1c7cfe8-f284-4763-9bb9-fb2c996bf75b" />
+
+<img width="759" height="718" alt="image" src="https://github.com/user-attachments/assets/ae7f731e-e51d-44e0-a904-ad3c75f34d20" />
+
 
 
 
 ### TABULATION:
+<img width="758" height="1280" alt="image" src="https://github.com/user-attachments/assets/88465348-e206-4870-9ff5-f44dae4a618e" />
+
 
 
 ### RESULTS:
